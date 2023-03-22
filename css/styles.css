@@ -193,7 +193,7 @@ p {
         margin-top: 0;
     }
 
-    #title {
+    #title .container-fluid{
         text-align: center
     }
 
